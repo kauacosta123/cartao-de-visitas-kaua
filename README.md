@@ -1,6 +1,6 @@
 # Cartão de Visitas Digital
 
-Cartão de visitas digital de Kauã Carreiro Costa, no estilo Linktree: página com foto, bio e links para GitHub, LinkedIn e portfólio. Projeto desenvolvido como atividade para a vaga de Estágio em Desenvolvimento.
+Cartão de visitas digital no estilo Linktree: página com foto, bio e links para GitHub, LinkedIn e portfólio. Projeto desenvolvido como atividade para a vaga de Estágio em Desenvolvimento.
 
 ## Como executar
 
