@@ -42,4 +42,7 @@ cartao-de-visitas-kaua/
 └── assets/
     ├── foto-kaua.jpeg
     └── icons/
+        ├── github-white.png
+        ├── linkedin-white.png
+        └── logo-port-white.png
 ```
