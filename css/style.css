@@ -36,8 +36,15 @@ body {
     transition: 0.3s ease, color 0.3s ease;
 }
 
-.tema-escuro .links__icon {
-    filter: invert(1);
+.card {
+    width: 100%;
+    max-width: 400px;
+    padding: 2rem 1.5rem;
+    background-color: var(--cor-card);
+    border-radius: 16px;
+    text-align: center;
+    transition: 0.3s ease, color 0.3s ease;
+    position: relative;
 }
 
 .botao-tema {
@@ -73,17 +80,6 @@ body {
 
 .tema-escuro .botao-tema__icone--lua {
     display: none;
-}
-
-.card {
-    width: 100%;
-    max-width: 400px;
-    padding: 2rem 1.5rem;
-    background-color: var(--cor-card);
-    border-radius: 16px;
-    text-align: center;
-    transition: 0.3s ease, color 0.3s ease;
-    position: relative;
 }
 
 .card__foto {
@@ -136,6 +132,10 @@ body {
 
 .links__icon {
     width: 24px;
+}
+
+.tema-escuro .links__icon {
+    filter: invert(1);
 }
 
 @media (max-width: 480px) {
