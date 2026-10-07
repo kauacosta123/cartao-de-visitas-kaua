@@ -47,7 +47,7 @@ body {
 }
 
 .card__titulo {
-    margin: 1rem 0 0.5rem;
+    margin: 1rem 0 0.75rem;
     font-size: 1.5rem;
 }
 
@@ -82,4 +82,14 @@ body {
 
 .links__icon {
     width: 24px;
+}
+
+@media (max-width: 480px) {
+    .card {
+        padding: 1.5rem 1rem;
+    }
+    .card__foto {
+        width: 96px;
+        height: 96px;
+    }
 }
